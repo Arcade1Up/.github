@@ -18,3 +18,5 @@ When submitting a report, please provide as much information as possible, includ
 Upon receiving a report, we will initiate an investigation with our internal security team. If the vulnerability is confirmed, we will promptly take the necessary corrective actions to resolve the issue and prevent future occurrences.
 
 We are committed to keeping you informed throughout the process, although please note that the investigation may require some time to complete. Generally, you will receive confirmation from us within 7 working days and get informed of the handling progress based on the actual situation.
+
+We commit to addressing confirmed security vulnerabilities in our products for a minimum of 2 years after the initial product release date.

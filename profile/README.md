@@ -19,4 +19,4 @@ Upon receiving a report, we will initiate an investigation with our internal sec
 
 We are committed to keeping you informed throughout the process, although please note that the investigation may require some time to complete. Generally, you will receive confirmation from us within 7 working days and get informed of the handling progress based on the actual situation.
 
-We commit to addressing confirmed security vulnerabilities in our products for a minimum of 2 years after the initial product release date.
+We commit to addressing confirmed security vulnerabilities in our products until 31st March 2027 unless otherwise stated.
